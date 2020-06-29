@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [<img width="134" src="https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg">](https://vk.com/services)
 
 # Create VK Mini App [![npm][npm]][npm-url] [![deps][deps]][deps-url]
@@ -32,3 +33,6 @@ Go to created folder and run:
 
 [deps]: https://img.shields.io/david/vkcom/create-vk-mini-app.svg
 [deps-url]: https://david-dm.org/vkcom/create-vk-mini-app
+=======
+# vkapps
+>>>>>>> 0ea8533e49d4d2c6c0672764e52c16457135ea9f
